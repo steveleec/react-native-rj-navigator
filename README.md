@@ -96,7 +96,7 @@ If you need to look at a working example, check out the example in `RJNavigatorE
 
 ## Running the Example App
 
-1. Go to the example directory and run `nam install`. 
+1. Go to the example directory and run `npm install`. 
 2. Open the `RJNavigatorExample/ios/RJNavigatorExample.xcodeproj` file to run it in Xcode.
 3. Run the file, the React Native Packager should run and the project should run in the iOS simulator.
 
